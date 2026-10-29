@@ -4,7 +4,7 @@
 
 ### Desarrollador de Software
 
-Desarrollo software a medida para empresas, estudios contables y profesionales<br/>
+Desarrollo software a medida para empresas y profesionales<br/>
 que necesitan ordenar procesos, ahorrar tiempo y trabajar con herramientas confiables.
 
 <br/>
@@ -18,9 +18,9 @@ que necesitan ordenar procesos, ahorrar tiempo y trabajar con herramientas confi
 
 ## Sobre mí
 
-Soy desarrollador de software con **9 años de experiencia en asistencia informática contable**. Esa trayectoria me dio algo que no se aprende solo programando: entender cómo funciona un negocio por dentro, qué necesita un área administrativa y dónde se pierde tiempo en tareas manuales.
+Soy desarrollador de software y trabajo de forma directa con cada cliente: entiendo el problema, propongo la solución más simple que funcione y la construyo pensando en quien la va a usar todos los días.
 
-Hoy uso ese conocimiento para construir soluciones simples, mantenibles y pensadas para quien las usa todos los días.
+Desde 2019 también brindo asistencia informática a áreas contables, lo que me da una visión práctica de cómo operan los equipos administrativos y dónde la tecnología realmente ahorra tiempo.
 
 ## Servicios
 
@@ -28,7 +28,7 @@ Hoy uso ese conocimiento para construir soluciones simples, mantenibles y pensad
 | :-- | :-- |
 | **Desarrollo web a medida** | Sitios y aplicaciones rápidas, seguras y fáciles de mantener. |
 | **Automatización de procesos** | Menos trabajo manual y repetitivo, menos errores, más tiempo para lo importante. |
-| **Soporte informático contable** | Herramientas y procesos para estudios contables y áreas administrativas. |
+| **Mantenimiento y soporte de sistemas** | Sistemas funcionando y mejorando, con alguien que ya los conoce. |
 
 ## Cómo trabajo
 
