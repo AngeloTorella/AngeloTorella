@@ -10,7 +10,7 @@ que necesitan ordenar procesos, ahorrar tiempo y trabajar con herramientas confi
 <br/>
 
 [![Sitio web](https://img.shields.io/badge/Sitio_web-angelotorella.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://angelotorella.github.io/)
-[![Email](https://img.shields.io/badge/Email-artorella.20%40proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artorella.20@proton.me)
+[![Email](https://img.shields.io/badge/Email-artorella.20%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:artorella.20@proton.me)
 
 </div>
 
